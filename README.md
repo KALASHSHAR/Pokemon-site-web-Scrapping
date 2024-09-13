@@ -4,7 +4,7 @@
 ## Introduction: What is Web Scraping?
 Web scraping is a technique to automatically access and extract large amounts of information from a website, which can save a huge amount of time and effort. <br>
 
-In this project we are going to use amazon product (ps5) search result link as the source of our raw data [link](https://pokemondb.net/pokedex/all).
+In this project we are going to use pokemon list link as the source of our raw data [link](https://pokemondb.net/pokedex/all).
 
 
 ## Prerequisites
